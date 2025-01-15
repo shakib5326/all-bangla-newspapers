@@ -2,6 +2,9 @@
 
 Welcome to the official repository for **[All Bangla Newspapers](https://www.all-bangla-newspapers.com/)** — your one-stop platform for accessing all major Bangla newspapers and news portals.
 
+![image](https://github.com/user-attachments/assets/ce636a58-340b-43f3-ba54-11ad817fb22e)
+
+
 ## About
 **All Bangla Newspapers** provides a comprehensive list of Bangladeshi newspapers, magazines, and online news sources. Stay updated on politics, sports, entertainment, and regional news from trusted outlets in one place.
 
